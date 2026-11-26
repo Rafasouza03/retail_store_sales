@@ -92,7 +92,7 @@ O dashboard `sales Dashboard.pbix` foi criado a partir do dataset limpo.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Rafasouza03/NOME-DO-REPOSITORIO.git
+   git clone https://github.com/Rafasouza03/AnaliseVenda.git
    ```
 2. Instale as dependências:
    ```bash
